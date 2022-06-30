@@ -1,0 +1,7 @@
+E:\2 курс БГТУ\ози\lab6\bin\Debug\lab6.exe.config
+E:\2 курс БГТУ\ози\lab6\bin\Debug\lab6.exe
+E:\2 курс БГТУ\ози\lab6\bin\Debug\lab6.pdb
+E:\2 курс БГТУ\ози\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+E:\2 курс БГТУ\ози\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+E:\2 курс БГТУ\ози\lab6\obj\Debug\lab6.exe
+E:\2 курс БГТУ\ози\lab6\obj\Debug\lab6.pdb
